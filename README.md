@@ -263,7 +263,7 @@ Use deepseek-r1:1.5b instead of latest in your .env — much faster on low VRAM 
 
 ## 👤 Project By
 
-**Mohammed Abrar Khan**  
+**Mohammed Ali Mohsin Afandi**  
 BCA Final Year — Osmania University, Hyderabad  
 St. Paul's Degree & PG College
 
