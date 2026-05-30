@@ -1,0 +1,22 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+
+# ML model files (too large for GitHub — 86MB)
+backend/model.pkl
+backend/label_encoder.pkl
+backend/symptom_list.pkl
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Database
+*.db
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db

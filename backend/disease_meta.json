@@ -1,0 +1,627 @@
+{
+  "Common Cold": {
+    "symptoms": [
+      "runny_nose",
+      "sneezing",
+      "sore_throat",
+      "cough",
+      "mild_fever",
+      "headache",
+      "fatigue",
+      "nasal_congestion",
+      "watery_eyes"
+    ],
+    "symptom_count": 9
+  },
+  "Influenza": {
+    "symptoms": [
+      "high_fever",
+      "severe_headache",
+      "body_aches",
+      "fatigue",
+      "cough",
+      "sore_throat",
+      "chills",
+      "sweating",
+      "loss_of_appetite",
+      "nasal_congestion"
+    ],
+    "symptom_count": 10
+  },
+  "COVID-19": {
+    "symptoms": [
+      "fever",
+      "cough",
+      "shortness_of_breath",
+      "fatigue",
+      "loss_of_smell",
+      "loss_of_taste",
+      "body_aches",
+      "headache",
+      "sore_throat",
+      "diarrhea",
+      "chest_pain"
+    ],
+    "symptom_count": 11
+  },
+  "Pneumonia": {
+    "symptoms": [
+      "high_fever",
+      "cough",
+      "shortness_of_breath",
+      "chest_pain",
+      "fatigue",
+      "chills",
+      "sweating",
+      "rapid_breathing",
+      "bluish_lips",
+      "confusion"
+    ],
+    "symptom_count": 10
+  },
+  "Bronchitis": {
+    "symptoms": [
+      "cough",
+      "mucus_production",
+      "fatigue",
+      "shortness_of_breath",
+      "mild_fever",
+      "chest_discomfort",
+      "wheezing",
+      "sore_throat"
+    ],
+    "symptom_count": 8
+  },
+  "Asthma": {
+    "symptoms": [
+      "shortness_of_breath",
+      "wheezing",
+      "chest_tightness",
+      "cough",
+      "rapid_breathing",
+      "anxiety",
+      "fatigue",
+      "difficulty_sleeping"
+    ],
+    "symptom_count": 8
+  },
+  "Tuberculosis": {
+    "symptoms": [
+      "persistent_cough",
+      "coughing_blood",
+      "chest_pain",
+      "fatigue",
+      "weight_loss",
+      "night_sweats",
+      "fever",
+      "loss_of_appetite",
+      "chills"
+    ],
+    "symptom_count": 9
+  },
+  "Allergic Rhinitis": {
+    "symptoms": [
+      "sneezing",
+      "runny_nose",
+      "nasal_congestion",
+      "itchy_eyes",
+      "watery_eyes",
+      "itchy_throat",
+      "headache",
+      "fatigue",
+      "postnasal_drip"
+    ],
+    "symptom_count": 9
+  },
+  "Heart Attack": {
+    "symptoms": [
+      "severe_chest_pain",
+      "chest_pressure",
+      "pain_radiating_to_arm",
+      "shortness_of_breath",
+      "sweating",
+      "nausea",
+      "dizziness",
+      "jaw_pain",
+      "back_pain",
+      "anxiety",
+      "rapid_heartbeat",
+      "fatigue"
+    ],
+    "symptom_count": 12
+  },
+  "Heart Failure": {
+    "symptoms": [
+      "shortness_of_breath",
+      "fatigue",
+      "swollen_legs",
+      "rapid_heartbeat",
+      "persistent_cough",
+      "wheezing",
+      "chest_pain",
+      "reduced_exercise_tolerance",
+      "swollen_abdomen",
+      "loss_of_appetite",
+      "nausea",
+      "confusion"
+    ],
+    "symptom_count": 12
+  },
+  "Hypertension": {
+    "symptoms": [
+      "headache",
+      "dizziness",
+      "chest_pain",
+      "shortness_of_breath",
+      "blurred_vision",
+      "nausea",
+      "nosebleeds",
+      "palpitations",
+      "fatigue",
+      "neck_pain"
+    ],
+    "symptom_count": 10
+  },
+  "Arrhythmia": {
+    "symptoms": [
+      "palpitations",
+      "rapid_heartbeat",
+      "slow_heartbeat",
+      "chest_pain",
+      "shortness_of_breath",
+      "dizziness",
+      "fainting",
+      "fatigue",
+      "anxiety",
+      "sweating"
+    ],
+    "symptom_count": 10
+  },
+  "Angina": {
+    "symptoms": [
+      "chest_pain",
+      "chest_pressure",
+      "pain_radiating_to_arm",
+      "shortness_of_breath",
+      "fatigue",
+      "dizziness",
+      "nausea",
+      "sweating"
+    ],
+    "symptom_count": 8
+  },
+  "Deep Vein Thrombosis": {
+    "symptoms": [
+      "leg_pain",
+      "leg_swelling",
+      "leg_redness",
+      "leg_warmth",
+      "visible_veins",
+      "fatigue",
+      "calf_pain"
+    ],
+    "symptom_count": 7
+  },
+  "Migraine": {
+    "symptoms": [
+      "severe_headache",
+      "nausea",
+      "vomiting",
+      "light_sensitivity",
+      "sound_sensitivity",
+      "blurred_vision",
+      "dizziness",
+      "aura",
+      "neck_stiffness",
+      "fatigue"
+    ],
+    "symptom_count": 10
+  },
+  "Stroke": {
+    "symptoms": [
+      "sudden_numbness",
+      "confusion",
+      "difficulty_speaking",
+      "vision_problems",
+      "severe_headache",
+      "dizziness",
+      "loss_of_balance",
+      "facial_drooping",
+      "arm_weakness"
+    ],
+    "symptom_count": 9
+  },
+  "Epilepsy": {
+    "symptoms": [
+      "seizures",
+      "temporary_confusion",
+      "staring_spells",
+      "loss_of_consciousness",
+      "uncontrollable_movements",
+      "anxiety",
+      "depression",
+      "memory_loss"
+    ],
+    "symptom_count": 8
+  },
+  "Meningitis": {
+    "symptoms": [
+      "severe_headache",
+      "high_fever",
+      "stiff_neck",
+      "light_sensitivity",
+      "nausea",
+      "vomiting",
+      "confusion",
+      "skin_rash",
+      "rapid_breathing",
+      "fatigue"
+    ],
+    "symptom_count": 10
+  },
+  "Parkinson's Disease": {
+    "symptoms": [
+      "tremors",
+      "slow_movement",
+      "rigid_muscles",
+      "impaired_balance",
+      "speech_changes",
+      "writing_changes",
+      "loss_of_smell",
+      "sleep_problems",
+      "constipation",
+      "depression"
+    ],
+    "symptom_count": 10
+  },
+  "Gastritis": {
+    "symptoms": [
+      "stomach_pain",
+      "nausea",
+      "vomiting",
+      "bloating",
+      "loss_of_appetite",
+      "indigestion",
+      "burning_stomach",
+      "dark_stools",
+      "belching"
+    ],
+    "symptom_count": 9
+  },
+  "Peptic Ulcer": {
+    "symptoms": [
+      "burning_stomach_pain",
+      "nausea",
+      "vomiting",
+      "dark_stools",
+      "loss_of_appetite",
+      "bloating",
+      "heartburn",
+      "weight_loss",
+      "vomiting_blood"
+    ],
+    "symptom_count": 9
+  },
+  "Appendicitis": {
+    "symptoms": [
+      "severe_abdominal_pain",
+      "nausea",
+      "vomiting",
+      "fever",
+      "loss_of_appetite",
+      "abdominal_rigidity",
+      "pain_at_navel",
+      "rebound_tenderness",
+      "constipation"
+    ],
+    "symptom_count": 9
+  },
+  "Irritable Bowel Syndrome": {
+    "symptoms": [
+      "abdominal_pain",
+      "bloating",
+      "diarrhea",
+      "constipation",
+      "mucus_in_stool",
+      "gas",
+      "nausea",
+      "fatigue",
+      "anxiety"
+    ],
+    "symptom_count": 9
+  },
+  "Liver Failure": {
+    "symptoms": [
+      "jaundice",
+      "abdominal_swelling",
+      "nausea",
+      "vomiting",
+      "fatigue",
+      "loss_of_appetite",
+      "easy_bruising",
+      "dark_urine",
+      "pale_stools",
+      "confusion",
+      "itchy_skin",
+      "swollen_legs"
+    ],
+    "symptom_count": 12
+  },
+  "Cirrhosis": {
+    "symptoms": [
+      "jaundice",
+      "fatigue",
+      "easy_bruising",
+      "swollen_abdomen",
+      "swollen_legs",
+      "loss_of_appetite",
+      "nausea",
+      "itchy_skin",
+      "spider_veins",
+      "confusion",
+      "vomiting_blood",
+      "dark_urine"
+    ],
+    "symptom_count": 12
+  },
+  "Hepatitis": {
+    "symptoms": [
+      "jaundice",
+      "fatigue",
+      "abdominal_pain",
+      "dark_urine",
+      "pale_stools",
+      "nausea",
+      "vomiting",
+      "loss_of_appetite",
+      "fever",
+      "joint_pain",
+      "itchy_skin"
+    ],
+    "symptom_count": 11
+  },
+  "Pancreatitis": {
+    "symptoms": [
+      "severe_abdominal_pain",
+      "nausea",
+      "vomiting",
+      "fever",
+      "rapid_heartbeat",
+      "abdominal_tenderness",
+      "bloating",
+      "back_pain",
+      "loss_of_appetite",
+      "jaundice"
+    ],
+    "symptom_count": 10
+  },
+  "Gallstones": {
+    "symptoms": [
+      "severe_abdominal_pain",
+      "nausea",
+      "vomiting",
+      "jaundice",
+      "back_pain",
+      "fever",
+      "clay_colored_stools",
+      "dark_urine",
+      "bloating"
+    ],
+    "symptom_count": 9
+  },
+  "Crohn's Disease": {
+    "symptoms": [
+      "abdominal_pain",
+      "diarrhea",
+      "blood_in_stool",
+      "weight_loss",
+      "fatigue",
+      "fever",
+      "mouth_sores",
+      "skin_problems",
+      "joint_pain",
+      "reduced_appetite"
+    ],
+    "symptom_count": 10
+  },
+  "Type 1 Diabetes": {
+    "symptoms": [
+      "frequent_urination",
+      "excessive_thirst",
+      "weight_loss",
+      "fatigue",
+      "blurred_vision",
+      "fruity_breath",
+      "nausea",
+      "vomiting",
+      "abdominal_pain",
+      "confusion"
+    ],
+    "symptom_count": 10
+  },
+  "Type 2 Diabetes": {
+    "symptoms": [
+      "frequent_urination",
+      "excessive_thirst",
+      "fatigue",
+      "blurred_vision",
+      "slow_healing",
+      "frequent_infections",
+      "tingling_hands",
+      "tingling_feet",
+      "weight_gain",
+      "dark_skin_patches"
+    ],
+    "symptom_count": 10
+  },
+  "Hypothyroidism": {
+    "symptoms": [
+      "fatigue",
+      "weight_gain",
+      "cold_intolerance",
+      "constipation",
+      "depression",
+      "slow_heartbeat",
+      "muscle_weakness",
+      "dry_skin",
+      "hair_loss",
+      "memory_problems",
+      "puffy_face"
+    ],
+    "symptom_count": 11
+  },
+  "Hyperthyroidism": {
+    "symptoms": [
+      "weight_loss",
+      "rapid_heartbeat",
+      "anxiety",
+      "tremors",
+      "sweating",
+      "heat_intolerance",
+      "frequent_bowel_movements",
+      "fatigue",
+      "difficulty_sleeping",
+      "bulging_eyes",
+      "muscle_weakness"
+    ],
+    "symptom_count": 11
+  },
+  "Anemia": {
+    "symptoms": [
+      "fatigue",
+      "weakness",
+      "pale_skin",
+      "shortness_of_breath",
+      "dizziness",
+      "headache",
+      "cold_hands",
+      "chest_pain",
+      "irregular_heartbeat",
+      "brittle_nails"
+    ],
+    "symptom_count": 10
+  },
+  "Chronic Kidney Disease": {
+    "symptoms": [
+      "fatigue",
+      "swollen_legs",
+      "shortness_of_breath",
+      "frequent_urination",
+      "decreased_urination",
+      "blood_in_urine",
+      "foamy_urine",
+      "nausea",
+      "loss_of_appetite",
+      "muscle_cramps",
+      "itchy_skin",
+      "confusion",
+      "high_blood_pressure"
+    ],
+    "symptom_count": 13
+  },
+  "Kidney Stones": {
+    "symptoms": [
+      "severe_back_pain",
+      "severe_side_pain",
+      "pain_urinating",
+      "blood_in_urine",
+      "nausea",
+      "vomiting",
+      "frequent_urination",
+      "cloudy_urine",
+      "fever",
+      "chills"
+    ],
+    "symptom_count": 10
+  },
+  "Urinary Tract Infection": {
+    "symptoms": [
+      "burning_urination",
+      "frequent_urination",
+      "cloudy_urine",
+      "strong_smelling_urine",
+      "pelvic_pain",
+      "fever",
+      "back_pain",
+      "nausea",
+      "blood_in_urine"
+    ],
+    "symptom_count": 9
+  },
+  "Rheumatoid Arthritis": {
+    "symptoms": [
+      "joint_pain",
+      "joint_swelling",
+      "joint_stiffness",
+      "fatigue",
+      "fever",
+      "loss_of_appetite",
+      "joint_redness",
+      "joint_warmth",
+      "morning_stiffness",
+      "weight_loss"
+    ],
+    "symptom_count": 10
+  },
+  "Osteoarthritis": {
+    "symptoms": [
+      "joint_pain",
+      "joint_stiffness",
+      "joint_swelling",
+      "reduced_range_of_motion",
+      "bone_spurs",
+      "grating_sensation",
+      "joint_tenderness",
+      "morning_stiffness"
+    ],
+    "symptom_count": 8
+  },
+  "Gout": {
+    "symptoms": [
+      "sudden_joint_pain",
+      "joint_swelling",
+      "joint_redness",
+      "joint_warmth",
+      "limited_motion",
+      "fever",
+      "skin_peeling",
+      "intense_pain_at_night",
+      "ankle_pain",
+      "knee_pain"
+    ],
+    "symptom_count": 10
+  },
+  "Dengue Fever": {
+    "symptoms": [
+      "high_fever",
+      "severe_headache",
+      "pain_behind_eyes",
+      "joint_pain",
+      "body_aches",
+      "skin_rash",
+      "nausea",
+      "vomiting",
+      "fatigue",
+      "mild_bleeding",
+      "loss_of_appetite"
+    ],
+    "symptom_count": 11
+  },
+  "Malaria": {
+    "symptoms": [
+      "high_fever",
+      "chills",
+      "sweating",
+      "headache",
+      "nausea",
+      "vomiting",
+      "body_aches",
+      "fatigue",
+      "diarrhea",
+      "anemia_symptoms",
+      "jaundice",
+      "rapid_heartbeat"
+    ],
+    "symptom_count": 12
+  }
+}
