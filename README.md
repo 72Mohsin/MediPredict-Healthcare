@@ -58,6 +58,28 @@ medipredict-final/
 
 ---
 
+## 📸 Screenshots
+
+### Sign Up
+![Sign Up](screenshots/SignUp.jpeg)
+
+### Login
+![Login](screenshots/Login.jpeg)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.jpeg)
+
+### Disease Prediction
+![Prediction](screenshots/Prediction.jpeg)
+
+### AI Chatbot (MediBot)
+![MediBot](screenshots/MediBot.jpeg)
+
+### Features Overview
+![Features](screenshots/Features.jpeg)
+
+---
+
 ## ⚙️ Tech Stack
 
 | Layer | Technology |
